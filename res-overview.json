@@ -1,0 +1,36 @@
+{
+    "rune": "SENDFEETPICS",
+    "runeNumber": 73854,
+    "symbol": "👣",
+    "ticker": "SENDFEETPICS",
+    "name": "SEND•FEET•PICS",
+    "totalSupply": "69000000",
+    "formattedTotalSupply": "69000000",
+    "divisibility": 0,
+    "imageURI": "https://ord-mirror.magiceden.dev/content/2e175d65a99488740294246c3f2e7624333bd64a4ab13513f6eab71003985b01i0",
+    "minOrderSize": 1,
+    "maxOrderSize": 100000000000,
+    "pendingTxnCount": 2,
+    "floorUnitPrice": {
+        "formatted": "9.349991670831251",
+        "value": "9.349991670831251"
+    },
+    "marketCap": 6.451494252873564,
+    "holderCount": 817,
+    "volume": {
+        "1d": 232853686,
+        "7d": 232853686,
+        "30d": 232853686,
+        "all": 232853686
+    },
+    "deltaFloor": {
+        "1d": 1.1987341772151898,
+        "7d": 0,
+        "30d": 0
+    },
+    "txnCount": {
+        "1d": 1266,
+        "7d": 1266,
+        "30d": 1266
+    }
+}
